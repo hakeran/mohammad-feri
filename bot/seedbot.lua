@@ -254,7 +254,7 @@ Persian: @IranSeed
     help_text_realm = [[
 Realm Commands:
 
-!creategroup [name]
+!CRG [name]
 Create a group
 
 !createrealm [name]
